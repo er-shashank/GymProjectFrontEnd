@@ -1,6 +1,6 @@
  
 
- 
+after cloning install node modules by running npm install 
  
 
 rm -r GymFrontEnd/
